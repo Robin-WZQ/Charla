@@ -5,6 +5,15 @@ LAN communication software based on Python and PyQt5
 
 > 本项目为北京理工大学小学期大作业，基于python和socket的即时通讯软件，面向企业，兼具保密性、实用性与趣味性。这个项目是本年级中唯一一个基于**python**语言和**PyQt5**框架编写的软件，而且功能丰富，广受老师和同学们的好评。
 
+### Introduction
+
+- 用户角度下-使用流程：
+![屏幕截图 2021-09-04 123926](https://user-images.githubusercontent.com/60317828/132082606-c231df87-8a09-4742-8b2d-7c754a6efa26.png)
+- 系统概要设计
+[模块结构图.pptx](https://github.com/Robin-WZQ/Charla/files/7109201/default.pptx)
+- 系统详细设计（暂提供接口定义）
+ 参考服务端/数据交换协议.xlsx
+
 ### Introduction - 功能简介
 
 - 用户管理
@@ -36,8 +45,6 @@ LAN communication software based on Python and PyQt5
 ![4](https://user-images.githubusercontent.com/60317828/132081204-a0bd25fb-2b2e-48f6-a1df-c2837654ae54.png)
 ![5](https://user-images.githubusercontent.com/60317828/132081205-f096d8dd-a997-4c6d-8f88-19c1d0eff557.png)
 ![7](https://user-images.githubusercontent.com/60317828/132081207-1f639589-6468-41e7-bca4-0c82e95c96f6.png)
-
-
 
 
 ### Installation - 安装
