@@ -121,3 +121,25 @@ python logist.py
 - 情感识别部分如果报错，可以注释掉，或者安装tensorflow等相关依赖
 - 很多路径需要修改，请自行解决。
 - 若是仍显示不出来图片，可以调式模式实时（运行也建议调式模式）
+
+### Contributing
+
+小学期我们6个人，用了5天时间，最后一天还刷了个夜，最后做成这个样子。但由于时间紧、任务重，以及能力有限，有些bug并没有即时解决的，主要出现在客户端多线程的问题，和整体框架设计、PyQt使用的问题。
+
+欢迎各位开发者完善此项目！
+
+#### Contributors
+
+感谢这些开发者对本项目的贡献：
+
+@Tang Feiyao
+
+@Zhao Yingying
+
+@Li Tong
+
+@Wang Jianan
+
+@Liu yunhao
+
+@Wang Zhongqi (myself)
