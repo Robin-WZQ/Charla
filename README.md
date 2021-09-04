@@ -38,6 +38,7 @@ LAN communication software based on Python and PyQt5
   - 情感识别打卡
   - 表情包传输
   - 内置32个游戏
+  - 敏感词侦测
 
 ## presentation - 部分功能界面展示
 ![3](https://user-images.githubusercontent.com/60317828/132081202-9ad80cfc-0f0d-4b79-b11a-bb099cc29da1.png)
