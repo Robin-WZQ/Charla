@@ -93,3 +93,31 @@ git clone https://github.com/Robin-WZQ/Charla.git
 - 下载安装Ternsoflow+keras
 
   参考教程：[Win10系统 安装Anaconda+TensorFlow+Keras](https://www.cnblogs.com/zeroingToOne/p/8407059.html)
+  
+#### Usage - 使用方法
+
+1. 首先启动服务端
+
+```
+cd ./Charla/服务端/
+python server.py
+```
+
+*注*：
+
+- 修改本地IP地址，通过ipconfig语句在cmd中查看
+- 修改all_files的文件夹地址
+
+   2.其次启动客户端
+
+```
+python logist.py
+```
+
+*注*：
+
+- 客户端与服务端须在两个窗口打开（若是在同一个电脑上）
+- 首先开启人脸识别，按q退出
+- 情感识别部分如果报错，可以注释掉，或者安装tensorflow等相关依赖
+- 很多路径需要修改，请自行解决。
+- 若是仍显示不出来图片，可以调式模式实时（运行也建议调式模式）
