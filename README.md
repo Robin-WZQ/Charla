@@ -1,11 +1,11 @@
 # Charla
 LAN communication software based on Python and PyQt5
 
-### Background - 背景
+## Background - 背景
 
 > 本项目为北京理工大学小学期大作业，基于python和socket的即时通讯软件，面向企业，兼具保密性、实用性与趣味性。这个项目是本年级中唯一一个基于**python**语言和**PyQt5**框架编写的软件，而且功能丰富，广受老师和同学们的好评。
 
-### Introduction - 项目简介
+## Introduction - 项目简介
 
 - 用户角度下-使用流程：
 ![屏幕截图 2021-09-04 123926](https://user-images.githubusercontent.com/60317828/132082606-c231df87-8a09-4742-8b2d-7c754a6efa26.png)
@@ -14,7 +14,7 @@ LAN communication software based on Python and PyQt5
 - 系统详细设计（只提供通信接口定义）
  参考服务端/数据交换协议.xlsx
 
-### Features - 功能介绍
+## Features - 功能介绍
 
 - 用户管理
   - 注册、登录、找回密码
@@ -38,7 +38,7 @@ LAN communication software based on Python and PyQt5
   - 表情包传输
   - 内置32个游戏
 
-### presentation - 部分功能界面展示
+## presentation - 部分功能界面展示
 ![1](https://user-images.githubusercontent.com/60317828/132081191-01d653ba-f159-4410-9151-2bab1e6d3a18.png)
 ![2](https://user-images.githubusercontent.com/60317828/132081201-485436a4-9789-411a-b160-bf6913f96766.png)
 ![3](https://user-images.githubusercontent.com/60317828/132081202-9ad80cfc-0f0d-4b79-b11a-bb099cc29da1.png)
@@ -47,9 +47,9 @@ LAN communication software based on Python and PyQt5
 ![7](https://user-images.githubusercontent.com/60317828/132081207-1f639589-6468-41e7-bca4-0c82e95c96f6.png)
 
 
-### Installation - 安装
+## Installation - 安装
 
-#### Requirements - 必要条件
+### Requirements - 必要条件
 
 - Windows10/Ubuntu 20.04
 - python3.7 and up
@@ -57,7 +57,7 @@ LAN communication software based on Python and PyQt5
 - PyQt5
 - keras and tensorflow
 
-#### Steps - 安装流程
+### Steps - 安装流程
 
 - 安装Ubuntu虚拟机（**可选**，本项目可在Windows下运行）
 
@@ -94,7 +94,7 @@ git clone https://github.com/Robin-WZQ/Charla.git
 
   参考教程：[Win10系统 安装Anaconda+TensorFlow+Keras](https://www.cnblogs.com/zeroingToOne/p/8407059.html)
   
-### Usage - 使用方法
+## Usage - 使用方法
 
 1. 首先启动服务端
 
@@ -122,13 +122,13 @@ python logist.py
 - 很多路径需要修改，请自行解决。
 - 若是仍显示不出来图片，可以调式模式实时（运行也建议调式模式）
 
-### Contributing
+## Contributing
 
 小学期我们6个人，用了5天时间，最后一天还刷了个夜，最后做成这个样子。但由于时间紧、任务重，以及能力有限，有些bug并没有即时解决的，主要出现在客户端多线程的问题，和整体框架设计、PyQt使用的问题。
 
 欢迎各位开发者完善此项目！
 
-#### Contributors
+### Contributors
 
 感谢这些开发者对本项目的贡献：
 
