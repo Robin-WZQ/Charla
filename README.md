@@ -5,7 +5,7 @@ LAN communication software based on Python and PyQt5
 
 > 本项目为北京理工大学小学期大作业，基于python和socket的即时通讯软件，面向企业，兼具保密性、实用性与趣味性。这个项目是本年级中唯一一个基于**python**语言和**PyQt5**框架编写的软件，而且功能丰富，广受老师和同学们的好评。
 
-### Introduction
+### Introduction - 项目简介
 
 - 用户角度下-使用流程：
 ![屏幕截图 2021-09-04 123926](https://user-images.githubusercontent.com/60317828/132082606-c231df87-8a09-4742-8b2d-7c754a6efa26.png)
@@ -14,7 +14,7 @@ LAN communication software based on Python and PyQt5
 - 系统详细设计（只提供通信接口定义）
  参考服务端/数据交换协议.xlsx
 
-### Introduction - 功能简介
+### Features - 功能介绍
 
 - 用户管理
   - 注册、登录、找回密码
@@ -94,7 +94,7 @@ git clone https://github.com/Robin-WZQ/Charla.git
 
   参考教程：[Win10系统 安装Anaconda+TensorFlow+Keras](https://www.cnblogs.com/zeroingToOne/p/8407059.html)
   
-#### Usage - 使用方法
+### Usage - 使用方法
 
 1. 首先启动服务端
 
