@@ -12,6 +12,7 @@ LAN communication software based on Python and PyQt5
 - 系统概要设计
 ![屏幕截图 2021-09-02 182107](https://user-images.githubusercontent.com/60317828/132082637-1311e787-7104-4284-a188-8e683595add8.png)
 - 系统详细设计（只提供通信接口定义）
+ 
  参考服务端/数据交换协议.xlsx
 
 ## Features - 功能介绍
