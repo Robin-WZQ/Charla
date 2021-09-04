@@ -40,12 +40,8 @@ LAN communication software based on Python and PyQt5
   - 内置32个游戏
 
 ## presentation - 部分功能界面展示
-![1](https://user-images.githubusercontent.com/60317828/132081191-01d653ba-f159-4410-9151-2bab1e6d3a18.png)
-![2](https://user-images.githubusercontent.com/60317828/132081201-485436a4-9789-411a-b160-bf6913f96766.png)
 ![3](https://user-images.githubusercontent.com/60317828/132081202-9ad80cfc-0f0d-4b79-b11a-bb099cc29da1.png)
-![4](https://user-images.githubusercontent.com/60317828/132081204-a0bd25fb-2b2e-48f6-a1df-c2837654ae54.png)
 ![5](https://user-images.githubusercontent.com/60317828/132081205-f096d8dd-a997-4c6d-8f88-19c1d0eff557.png)
-![7](https://user-images.githubusercontent.com/60317828/132081207-1f639589-6468-41e7-bca4-0c82e95c96f6.png)
 
 
 ## Installation - 安装
