@@ -601,7 +601,6 @@ def item_click():
         chat1.show()
         t1 = Thread(target = handle)
         t1.start()
-        t1.join()
         # chat1.close()
         # chat1.textBrowser.clear()
     else:
