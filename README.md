@@ -140,7 +140,7 @@ python logist.py
 
 @Liu yunhao
 
-@Wang Zhongqi (myself)
+@Wang Zhongqi 
 
 ## License
 MIT License
