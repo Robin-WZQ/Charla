@@ -4,7 +4,7 @@ import cv2
 # 调用笔记本内置摄像头，参数为0，如果有其他的摄像头可以调整参数为1,2
 cap = cv2.VideoCapture(0)
 # 调用人脸分类器，要根据实际路径调整3
-face_detector = cv2.CascadeClassifier(r'C:/Users/WZQ/Desktop/haarcascade_frontalface_default_2.xml')  # 待更改
+face_detector = cv2.CascadeClassifier(r'haarcascade_frontalface_default_2.xml')  # 待更改
 
 # sampleNum用来计数样本数目
 count = 0
