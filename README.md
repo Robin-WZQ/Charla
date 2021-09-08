@@ -126,21 +126,5 @@ python logist.py
 
 欢迎各位开发者完善此项目！
 
-### Contributors
-
-感谢这些开发者对本项目的贡献：
-
-@Tang Feiyao
-
-@Zhao Yingying
-
-@Li Tong
-
-@Wang Jianan
-
-@Liu yunhao
-
-@Wang Zhongqi 
-
 ## License
 MIT License
