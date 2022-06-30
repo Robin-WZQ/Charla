@@ -40,7 +40,7 @@ LAN communication software based on Python and PyQt5
   - 内置32个游戏
   - 敏感词侦测
 
-## presentation - 部分功能界面展示
+## Presentation - 部分功能界面展示
 ![3](https://user-images.githubusercontent.com/60317828/132081202-9ad80cfc-0f0d-4b79-b11a-bb099cc29da1.png)
 ![5](https://user-images.githubusercontent.com/60317828/132081205-f096d8dd-a997-4c6d-8f88-19c1d0eff557.png)
 
@@ -162,7 +162,7 @@ python logist.py
 
 ## Contributing
 
-小学期我们6个人，用了5天时间，最后一天还刷了个夜，最后做成这个样子。但由于时间紧、任务重，以及能力有限，有些bug并没有即时解决的，主要出现在客户端多线程的问题，和整体框架设计、PyQt使用的问题。
+小学期我们6个人，用了5天时间，最后一天还刷了个夜，最后做成这个样子。但由于时间紧、任务重，以及能力有限，有些bug并没有即时解决的，主要出现在客户端多线程的问题，和整体框架设计、PyQt使用的问题。最后不禁想吟诗一首：“通宵没白熬，代码没白调；头发没白掉，成功终来到！”
 
 欢迎各位开发者完善此项目！！
 
