@@ -44,7 +44,7 @@ LAN communication software based on Python and PyQt5
 ![3](https://user-images.githubusercontent.com/60317828/132081202-9ad80cfc-0f0d-4b79-b11a-bb099cc29da1.png)
 ![5](https://user-images.githubusercontent.com/60317828/132081205-f096d8dd-a997-4c6d-8f88-19c1d0eff557.png)
 
-## 需求跟踪矩阵
+## Requirements tracking matrix - 需求跟踪矩阵
 | No.  |  大分类  |    中分类    |        小分类        |                           详细说明                           |
 | :--: | :------: | :----------: | :------------------: | :----------------------------------------------------------: |
 |  1   |   登录   |   登录界面   |       输入工号       |                  输入工号，检测是否有该工号                  |
