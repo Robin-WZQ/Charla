@@ -50,7 +50,7 @@ LAN communication software based on Python and PyQt5
 ### Requirements - 必要条件
 
 - Windows10/Ubuntu 20.04
-- python3.7 and up
+- python3.7 or up
 - sqlite3
 - PyQt5
 - keras and tensorflow
