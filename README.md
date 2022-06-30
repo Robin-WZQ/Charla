@@ -57,7 +57,7 @@ LAN communication software based on Python and PyQt5
 
 ### Steps - 安装流程
 
-- 安装Ubuntu虚拟机（**可选**，本项目可在Windows下运行）
+- 安装Ubuntu虚拟机（**可跳过**，本项目可在Windows下运行!）
 
   参考链接：
 
