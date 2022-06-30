@@ -53,7 +53,7 @@ LAN communication software based on Python and PyQt5
 - python3.7 or up
 - sqlite3
 - PyQt5
-- keras and tensorflow
+- keras and tensorflow（可不需要这个，代码里注释掉就相关代码行）
 
 ### Steps - 安装流程
 
@@ -88,7 +88,7 @@ git clone https://github.com/Robin-WZQ/Charla.git
 
   参考教程：[pyqt5安装教程](https://blog.csdn.net/ifeng12358/article/details/102943588)
 
-- 下载安装Ternsoflow+keras
+- 下载安装Tensoflow+keras
 
   参考教程：[Win10系统 安装Anaconda+TensorFlow+Keras](https://www.cnblogs.com/zeroingToOne/p/8407059.html)
   
