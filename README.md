@@ -166,5 +166,7 @@ python logist.py
 
 欢迎各位开发者完善此项目！！
 
+开源不易，若喜欢记得给star~
+
 ## License
 MIT License
